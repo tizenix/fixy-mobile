@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>291782857773-5mfvqpv9lukcmq8ro8pfc8ivkobj8cmn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.291782857773-5mfvqpv9lukcmq8ro8pfc8ivkobj8cmn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>291782857773-hbgcij9c16bem696odfqfcacopgai3kh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDe_u8K8l1fIxn7Jp8XQifTkaPidOwMrzk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>291782857773</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fixy.lk</string>
+	<key>PROJECT_ID</key>
+	<string>fixylk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fixylk.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:291782857773:ios:b6ab352c4a14a96709d4a4</string>
+	<key>DATABASE_URL</key>
+	<string>https://fixylk.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-1.1.2/
+firebase_auth_web=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-1.1.0/
+firebase_core=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.1.0/
+firebase_core_web=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.0.2/
+flutter_plugin_android_lifecycle=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.1/
+image_picker=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.7.4/
+image_picker_for_web=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.0.0/
+image_pickers=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/image_pickers-1.0.8+7/
+path_provider=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/
+path_provider_linux=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0/
+path_provider_macos=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.0/
+path_provider_windows=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.1/
+shared_preferences=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.5/
+shared_preferences_linux=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.0/
+shared_preferences_macos=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.0/
+shared_preferences_web=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.0/
+shared_preferences_windows=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.0/
+sms_autofill=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/sms_autofill-1.2.7/
+sqflite=/Users/shehanamarakoon/development/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+3/
