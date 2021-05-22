@@ -24,4 +24,8 @@ A new Flutter application.
 
 1. Advertisement Create - Complete
 
+## 2021-May-22
+
+1. Upgraded flutter version.
+
 
